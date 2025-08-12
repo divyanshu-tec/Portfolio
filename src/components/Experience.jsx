@@ -2,14 +2,14 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const skills = [
-  { name: "HTML", logo: "/public/html.png" },
-  { name: "CSS", logo: "/public/css.jpg" },
-  { name: "JavaScript", logo: "/public/javascript.png" },
-  { name: "React", logo: "/public/reactjs.png" },
-  { name: "Node.js", logo: "/public/node.png" },
-  { name: "Tailwind CSS", logo: "/public/tailwind_CSS_Logo.svg.png" },
-  { name: "Python", logo: "/public/python.webp" },
-  { name: "MySQL", logo: "/public/sql.png" },
+  { name: "HTML", logo: "/html.png" },
+  { name: "CSS", logo: "/css.jpg" },
+  { name: "JavaScript", logo: "/javascript.png" },
+  { name: "React", logo: "/reactjs.png" },
+  { name: "Node.js", logo: "/node.png" },
+  { name: "Tailwind CSS", logo: "/tailwind_CSS_Logo.svg.png" },
+  { name: "Python", logo: "/python.webp" },
+  { name: "MySQL", logo: "/sql.png" },
 ];
 
 const Experience = () => {
