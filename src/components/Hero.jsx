@@ -13,9 +13,9 @@ export const Hero = () => {
   return (
     <>
       <div className="max-w-screen 2xl container mx-auto px-4 md:px-20 my-15" id="Hero">
-        <div className="flex flec-col md:row">
+        <div className="flex flex-col md:flex-row">
           <div className="md:w-1/2 mt-14 md:mt-22 order-2 md:order-1 ">
-            <span className="tect-xl">Welcome to my feed</span>
+            <span className="text-xl">Welcome to my feed</span>
             <div className="flex space-x-1 text-2xl md:w-4xl">
               <h1>Hello I'm a </h1>
 
@@ -77,7 +77,7 @@ export const Hero = () => {
             <img
               src="/photo.avif"
               alt="Photo"
-              className="rounded-full md:w-[400px] md:h-[400px]"
+              className="rounded-full mt-5 md:w-[400px] md:h-[400px]"
             />
           </div>
         </div>
