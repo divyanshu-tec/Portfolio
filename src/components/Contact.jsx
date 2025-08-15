@@ -116,7 +116,7 @@ const Contact = () => {
         {/* Resume Button */}
         <div className="flex justify-center mt-6">
           <a
-            href="/resume.pdf" // Place your resume file inside "public" folder
+            href="/divvv resume.pdf" // Place your resume file inside "public" folder
             download
             className="bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-2 rounded-lg transition duration-300"
           >
