@@ -83,7 +83,7 @@ export const Hero = () => {
         </div>
       </div>
 
-      <hr />
+      
     </>
   );
 };
