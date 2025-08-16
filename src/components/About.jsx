@@ -113,19 +113,8 @@ function About() {
                 </div>
               </div>
               
-              {/* Progress Indicator */}
-              <div className="mt-6">
-                <div className="flex justify-between text-sm text-gray-500 mb-2">
-                  <span>Progress</span>
-                  <span>{Math.round(((index + 1) / educationData.length) * 100)}%</span>
-                </div>
-                <div className="w-full bg-gray-200 rounded-full h-2">
-                  <div 
-                    className={`h-2 rounded-full bg-gradient-to-r ${edu.color} transition-all duration-1000`}
-                    style={{ width: `${((index + 1) / educationData.length) * 100}%` }}
-                  ></div>
-                </div>
-              </div>
+              
+             
             </div>
           ))}
         </div>
