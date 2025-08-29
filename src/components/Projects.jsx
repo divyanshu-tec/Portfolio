@@ -7,7 +7,7 @@ const projects = [
     description:
       "A personal portfolio built using React and Tailwind CSS to showcase my skills and projects.",
     tech: ["React", "Tailwind", "JavaScript"],
-    link: "#"
+    link: "#https://divport.netlify.app/"
   },
   {
     title: "E-Commerce App",
@@ -17,11 +17,11 @@ const projects = [
     link: "#"
   },
   {
-    title: "Weather App",
+    title: "Proservhomess",
     description:
-      "A weather forecast app using OpenWeather API with dynamic backgrounds.",
-    tech: ["HTML", "CSS", "JavaScript", "API"],
-    link: "#"
+      "Reliable solutions for smarter and comfortable living.",
+    tech: ["React.js, TailwindCSS, Email.js, Javascript"],
+    link: "#https://proservhomes.com/"
   }
 ];
 
