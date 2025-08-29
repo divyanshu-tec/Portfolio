@@ -20,7 +20,7 @@ const projects = [
     title: "Proservhomess",
     description:
       "Reliable solutions for smarter and comfortable living.",
-    tech: ["React.js, TailwindCSS, Email.js, Javascript"],
+    tech: ["React.js", "TailwindCSS", "Email.js", "Javascript"],
     link: "https://proservhomes.com/"
   }
 ];
